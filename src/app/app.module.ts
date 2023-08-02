@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { ServicesComponent } from './services/services.component';
-import { BoxComponent } from './Services/box/box.component';
+import { BoxComponent } from './services/box/box.component';
 import { AboutUsComponent } from './about-us/about-us.component';
 import { WhyChooseUsComponent } from './why-choose-us/why-choose-us.component';
 import { OurPortfolioComponent } from './our-portfolio/our-portfolio.component';
